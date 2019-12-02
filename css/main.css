@@ -1,0 +1,118 @@
+
+.container {
+/* background page color for class container  */
+ background:rgb(117, 82, 96);
+}
+
+
+.logocode {
+  /* width,height  */
+  width: 20%;
+  float: left;
+  height: 120px;
+  display: block;
+}
+
+
+h1,h3 {
+  /* font-weight*/
+ margin-bottom: 5px;
+ font-size: 2em;
+ color:#292727;
+ text-transform: uppercase;
+ text-align: right;
+ font-family: "Arial, Helvetica,;Sans-serif font";
+ width: 100%;
+}
+
+
+h4 {
+  /* font-weight for h4*/
+  margin-bottom: 5px;
+  font-size: 1em;
+  color:#292727;
+  text-transform:Uppercase;
+  text-align: right;
+  font-family: "Arial, Helvetica,;Sans-serif font";
+  width: 100%;
+}
+
+
+.center-img {  
+  /* center image */
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
+  padding: 5px;
+  margin-bottom: 25;
+  cursor: pointer;
+  height: 50%;
+}
+
+
+p {
+/* style of p */
+  margin-bottom: 5px;
+  font-size: 1em;
+  color:#02070a  ;
+  text-transform:capitalize;
+  text-align:Center;
+  font-family: "Arial, Helvetica,;Sans-serif font";
+  width: 100%;
+}
+
+
+.col-md-12-Para { 
+ /* border style of the paragergh */
+  border: 2px solid #bcbbbb;
+  border-radius: 12px;
+}
+
+
+.text-muted {
+  /* style for text*/
+  margin-bottom: 5px;
+  font-size: 3em;
+  color: #bcbbbb;
+  text-transform: capitalize;
+  text-align: left;
+  font-family: "Arial, Helvetica,;Sans-serif font";
+  width: 100%;
+}
+
+
+hr {
+  /* Line to separate hader and main*/
+  margin-top: 0.4em;
+  border-top: 0.2em solid #bcbbbb;
+}
+
+.feature-works-images {  
+  /* style for text*/
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
+  padding: 5px;
+  margin-bottom: 25;
+  cursor: pointer;
+  height: 50%;
+}
+
+
+.text-uppercase-image {
+  margin-bottom: 4px;
+  font-size: 1em;
+  color:#060607;
+  text-transform: capitalize;
+  text-align: center;
+  font-family: "Arial, Helvetica,;Sans-serif font";
+  width: 100%;
+  display: block;
+}
+
+
+
